@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- 3D Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=Mehul%20Makwana&fontSize=90&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20Mobile%20Apps%20|%20AI%20Automation&descSize=25&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=Mehul%20Makwana&fontSize=90&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Automation%20Specialist&descSize=25&descAlignY=55" width="100%"/>
   
   <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Universe!;Full-Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+%F0%9F%92%BB;AI-Powered+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Universe!;Full-Stack+Developer+%2B+AI/ML+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%F0%9F%9A%80;AI-Powered+Automation+%E2%9C%A8" alt="Typing SVG" />
   
   <!-- Animated Badges with 3D effect -->
   <p>
@@ -25,14 +25,14 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 🚀
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Full-Stack Developer** specializing in **scalable web & mobile applications**  
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Passionate about **clean architecture** and **user-focused solutions**  
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Building **AI-powered automation** and **real-time systems**  
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Ask me about **React, Node.js, React Native, Laravel, AI Automation**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Full-Stack Developer** with strong focus on **AI, Machine Learning & Automation**  
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Building **intelligent systems** that automate workflows and enhance decision-making  
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Expertise in **ML model integration**, **AI agents**, and **automation pipelines**  
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Ask me about **AI/ML Integration, React, Node.js, Automation Systems**  
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30"> Reach me: **mehulmakwana08@gmail.com**  
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="30"> Open to **freelance**, **collaboration**, and **startup projects**
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="30"> Open to **AI/ML collaborations**, **open-source**, and **product-based work**
 
 </div>
 
@@ -44,9 +44,9 @@
   
 ## 🏆 GitHub Trophies
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=mehulmakwana08&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7&rank=-C,-?&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Repositories,Followers" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehulmakwana08&theme=algolia&no-frame=false&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies" />
+</p>
 
 </div>
 
@@ -56,7 +56,7 @@
 <!-- 3D Social Connection Banner -->
 <div align="center">
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🤝
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
 
@@ -83,11 +83,27 @@
 <!-- 3D Tech Stack Section -->
 <div align="center">
 
-## 💻 Tech Stack & Skills
+## 💻 Tech Stack & Skills ⚡
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
 </div>
+
+#### 🤖 AI, Machine Learning & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=74AA9C" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white&labelColor=FF6B6B" alt="Workflow Automation"/>
+  <img src="https://img.shields.io/badge/ML_Model_Integration-00979D?style=for-the-badge&logo=python&logoColor=white&labelColor=00979D" alt="ML Integration"/>
+  <img src="https://img.shields.io/badge/Event_Driven_Systems-FF9900?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=FF9900" alt="Event Driven"/>
+</p>
+
+<!-- AI/ML Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50">
+</p>
 
 #### 🔹 Frontend Development
 
@@ -101,6 +117,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
 </p>
 
+<!-- Frontend Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50">
+</p>
+
 #### 🔹 Backend Development
 
 <p align="left">
@@ -111,11 +132,21 @@
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="REST API"/>
 </p>
 
+<!-- Backend Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">
+</p>
+
 #### 🔹 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
+</p>
+
+<!-- Database Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
 </p>
 
 #### 🔹 Cloud & DevOps
@@ -126,11 +157,9 @@
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF" alt="CI/CD"/>
 </p>
 
-#### 🔹 AI & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=74AA9C" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white&labelColor=FF6B6B" alt="Workflow Automation"/>
+<!-- Cloud Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50">
 </p>
 
 #### 🔹 Tools & APIs
@@ -148,20 +177,20 @@
 <!-- 3D Statistics Section -->
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics 📈
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
 
 </div>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehulmakwana08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a9fef7&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulmakwana08&theme=tokyonight&hide_border=true&background=0d1117&ring=a9fef7&fire=667eea&currStreakLabel=a9fef7" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehulmakwana08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a9fef7&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mehulmakwana08&theme=tokyonight&hide_border=true&background=0d1117&ring=a9fef7&fire=667eea&currStreakLabel=a9fef7" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulmakwana08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mehulmakwana08&limit=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9" alt="Top Contributors"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehulmakwana08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=a9fef7&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehulmakwana08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a9fef7&icon_color=667eea&text_color=c9d1d9&custom_title=Recent%20Activity" alt="Recent Activity"/>
 </p>
 
 <!-- Animated Divider -->
@@ -170,7 +199,7 @@
 <!-- 3D Contribution Graph -->
 <div align="center">
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph 🔥
 
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
@@ -184,12 +213,12 @@
 <!-- 3D Snake Animation -->
 <div align="center">
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake Animation 🎮
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehulmakwana08/mehulmakwana08/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehulmakwana08/mehulmakwana08/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehulmakwana08/mehulmakwana08/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -200,11 +229,9 @@
 <!-- 3D Quote Section -->
 <div align="center">
 
-## 💡 Random Dev Quote
+## 💡 Random Dev Quote 💭
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ffe3c-de19-4d5c-a52e-b72c9a4e0e48.gif" width="100">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -214,7 +241,7 @@
 <!-- 3D Code Focus Section -->
 <div align="center">
 
-## 🎯 Current Focus & Expertise
+## 🎯 Current Focus & Expertise 💼
 
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
@@ -222,40 +249,43 @@
 
 ```javascript
 const mehul = {
-    role: "Full-Stack Developer",
-    experience: "Building scalable web & mobile applications",
+    role: "Full-Stack Developer + AI/ML Engineer",
+    expertise: "Building intelligent systems at the intersection of software engineering and applied AI",
     
-    coreSkills: {
+    aiMlExpertise: {
+        applications: ["AI-powered applications", "Workflow automation"],
+        machineLearning: ["ML model integration", "Prediction", "Classification", "NLP use cases"],
+        aiSystems: ["AI agent design", "Prompt engineering"],
+        automation: ["Automated messaging (WhatsApp, FCM)", "Background jobs", "Event-driven systems"],
+        focus: "Solutions that automate workflows, enhance decision-making, and improve UX"
+    },
+    
+    technicalSkills: {
         frontend: ["React.js", "React Native", "Tailwind CSS", "UI/UX Optimization"],
         backend: ["Node.js", "Express", "Laravel", "REST APIs"],
+        aiMl: ["AI Agents", "ML Integration", "NLP Systems", "Prompt Engineering"],
         databases: ["MySQL", "MongoDB", "Firebase"],
         cloudDevOps: ["AWS EC2", "Docker", "CI/CD", "Linux"],
-        aiAutomation: ["AI Agents", "Prompt Engineering", "Workflow Automation"],
-        tools: ["Git", "GitHub", "Postman", "Firebase", "FCM", "WhatsApp APIs"]
+        tools: ["Git", "Postman", "Firebase", "FCM", "Automation APIs"]
     },
     
-    currentlyWorkingOn: [
-        "Scalable web and mobile applications",
-        "AI-powered automation tools",
-        "Real-time systems (notifications, messaging, live streaming)",
-        "Clean UI/UX and performance optimization"
+    currentFocus: [
+        "AI-driven automation tools",
+        "Intelligent web and mobile platforms",
+        "Scalable backend systems with real-time capabilities",
+        "Performance optimization and clean architecture"
     ],
-    
-    architecture: {
-        focus: "Clean Architecture & User-Focused Solutions",
-        principles: ["Performance", "Maintainability", "Real-world Usability"]
-    },
     
     openTo: [
-        "Collaboration on open-source projects",
-        "Freelance or contract development",
-        "Startup and product-focused engineering work"
+        "AI/ML and automation-focused collaborations",
+        "Open-source contributions",
+        "Freelance, contract, or product-based development"
     ],
     
-    philosophy: "Solving complex problems & turning ideas into production-ready software"
+    philosophy: "Designing intelligent solutions that turn complex problems into production-ready software"
 };
 
-console.log("Building the future, one commit at a time! 🚀");
+console.log("Building intelligent systems, one commit at a time! 🤖🚀");
 ```
 
 <!-- Animated Code Banner -->
