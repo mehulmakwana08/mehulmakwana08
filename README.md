@@ -1,10 +1,10 @@
 <div align="center">
   
   <!-- 3D Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=Mehul%20Makwana&fontSize=90&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20|%20System%20Architect%20|%20Cloud%20Enthusiast&descSize=25&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=300&section=header&text=Mehul%20Makwana&fontSize=90&fontAlignY=35&animation=twinkling&desc=Full-Stack%20Developer%20|%20Mobile%20Apps%20|%20AI%20Automation&descSize=25&descAlignY=55" width="100%"/>
   
   <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Universe!;Building+Scalable+Systems+%F0%9F%9A%80;Crafting+Clean+Code+%F0%9F%92%BB;Architecting+the+Future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Universe!;Full-Stack+Developer+%F0%9F%9A%80;Building+Web+%26+Mobile+Apps+%F0%9F%92%BB;AI-Powered+Solutions+%E2%9C%A8" alt="Typing SVG" />
   
   <!-- Animated Badges with 3D effect -->
   <p>
@@ -27,12 +27,12 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Backend Developer** specializing in **scalable systems**  
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Passionate about **clean code** and **system architecture**  
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Currently exploring **Cloud Technologies & Microservices**  
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Ask me about **Java, Python, PHP, Laravel, Databases**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Full-Stack Developer** specializing in **scalable web & mobile applications**  
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Passionate about **clean architecture** and **user-focused solutions**  
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> Building **AI-powered automation** and **real-time systems**  
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30"> Ask me about **React, Node.js, React Native, Laravel, AI Automation**  
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="30"> Reach me: **mehulmakwana08@gmail.com**  
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="30"> Fun fact: **I debug faster with coffee!** ☕
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.gif" width="30"> Open to **freelance**, **collaboration**, and **startup projects**
 
 </div>
 
@@ -89,46 +89,57 @@
 
 </div>
 
+#### 🔹 Frontend Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
+</p>
+
 #### 🔹 Backend Development
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=404D59" alt="Express.js"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="REST API"/>
 </p>
 
 #### 🔹 Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=F80000" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=CC2927" alt="SQL Server"/>
-</p>
-
-#### 🔹 Frontend & Design
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=31A8FF" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white&labelColor=FF9A00" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
 </p>
 
 #### 🔹 Cloud & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=FF9900" alt="AWS EC2"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=2088FF" alt="CI/CD"/>
 </p>
 
-#### 🔹 Other Technologies
+#### 🔹 AI & Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&labelColor=27338e" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=00979D" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C"/>
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=412991" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=74AA9C" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white&labelColor=FF6B6B" alt="Workflow Automation"/>
+</p>
+
+#### 🔹 Tools & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="FCM"/>
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp API"/>
 </p>
 
 <!-- Animated Divider -->
@@ -211,29 +222,37 @@
 
 ```javascript
 const mehul = {
-    code: ["Java", "Python", "PHP", "JavaScript", "TypeScript"],
-    technologies: {
-        backEnd: {
-            frameworks: ["Laravel", "Node.js", "Spring Boot"],
-            patterns: ["MVC", "Microservices", "REST API", "GraphQL"]
-        },
-        databases: {
-            sql: ["MySQL", "Oracle", "SQL Server"],
-            nosql: ["MongoDB", "Redis"]
-        },
-        cloud: {
-            platforms: ["AWS", "Azure"],
-            services: ["EC2", "S3", "Lambda", "RDS"]
-        },
-        devOps: ["Docker", "Git", "Linux", "CI/CD"],
-        tools: ["VS Code", "IntelliJ", "Postman", "DBeaver"]
+    role: "Full-Stack Developer",
+    experience: "Building scalable web & mobile applications",
+    
+    coreSkills: {
+        frontend: ["React.js", "React Native", "Tailwind CSS", "UI/UX Optimization"],
+        backend: ["Node.js", "Express", "Laravel", "REST APIs"],
+        databases: ["MySQL", "MongoDB", "Firebase"],
+        cloudDevOps: ["AWS EC2", "Docker", "CI/CD", "Linux"],
+        aiAutomation: ["AI Agents", "Prompt Engineering", "Workflow Automation"],
+        tools: ["Git", "GitHub", "Postman", "Firebase", "FCM", "WhatsApp APIs"]
     },
+    
+    currentlyWorkingOn: [
+        "Scalable web and mobile applications",
+        "AI-powered automation tools",
+        "Real-time systems (notifications, messaging, live streaming)",
+        "Clean UI/UX and performance optimization"
+    ],
+    
     architecture: {
-        focus: "Scalable Microservices Architecture",
-        principles: ["Clean Code", "SOLID", "DRY", "Design Patterns"]
+        focus: "Clean Architecture & User-Focused Solutions",
+        principles: ["Performance", "Maintainability", "Real-world Usability"]
     },
-    learning: ["Kubernetes", "Terraform", "Cloud Native Apps"],
-    funFact: "There are two ways to write error-free programs; only the third works ☕"
+    
+    openTo: [
+        "Collaboration on open-source projects",
+        "Freelance or contract development",
+        "Startup and product-focused engineering work"
+    ],
+    
+    philosophy: "Solving complex problems & turning ideas into production-ready software"
 };
 
 console.log("Building the future, one commit at a time! 🚀");
